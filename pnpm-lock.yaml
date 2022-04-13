@@ -68,7 +68,7 @@ importers:
       autoprefixer: 10.4.4
       axios: ^0.26.1
       caller-callsite: 4.1.0
-      chalk: 4.1.2
+      chalk: 5.0.1
       clsx: ^1.1.1
       eslint: 7.32.0
       eslint-plugin-react: 7.29.4
@@ -130,7 +130,7 @@ importers:
       '@vitejs/plugin-react': 1.3.0
       autoprefixer: 10.4.4_postcss@8.4.12
       caller-callsite: 4.1.0
-      chalk: 4.1.2
+      chalk: 5.0.1
       eslint: 7.32.0
       eslint-plugin-react: 7.29.4_eslint@7.32.0
       eslint-plugin-react-hooks: 4.4.0_eslint@7.32.0
@@ -157,7 +157,7 @@ importers:
       '@types/inquirer': 8.2.1
       '@types/inquirer-autocomplete-prompt': 1.3.4
       '@types/node': 17.0.8
-      chalk: ^4.1.2
+      chalk: 5.0.1
       commander: ^8.3.0
       cross-env: 7.0.3
       inquirer: ^8.2.2
@@ -171,7 +171,7 @@ importers:
       '@previewjs/app': link:../app
       '@previewjs/core': link:../core
       '@previewjs/vfs': link:../vfs
-      chalk: 4.1.2
+      chalk: 5.0.1
       commander: 8.3.0
       inquirer: 8.2.2
       inquirer-autocomplete-prompt: 2.0.0_inquirer@8.2.2
@@ -13568,7 +13568,6 @@ packages:
   /chalk/5.0.1:
     resolution: {integrity: sha512-Fo07WOYGqMfCWHOzSXOt2CxDbC6skS/jO9ynEcmpANMoPrD+W1r1K6Vx7iNm+AQmETU1Xr2t+n8nzkV9t6xh3w==}
     engines: {node: ^12.17.0 || ^14.13 || >=16.0.0}
-    dev: true
 
   /char-regex/1.0.2:
     resolution: {integrity: sha512-kWWXztvZ5SBQV+eRgKFeh8q5sLuZY2+8WUIzlxWVTg+oGwY14qylx1KbKzHd8P6ZYkAg0xyIDU9JMHhyJMZ1jw==}
